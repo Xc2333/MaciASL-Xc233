@@ -67,7 +67,7 @@
       @"font": @{@"name": @"Menlo", @"size": @11},
       @"sources": @[
         
-        @{@"name": @"Xc233", @"url": @"http://raw.github.com/Xc2333/Laptop-DSDT-Patch/master"},
+        @{@"name": @"Xc2333", @"url": @"http://raw.github.com/Xc2333/Laptop-DSDT-Patch/master"},
         @{@"name": @"VoodooI2C", @"url": @"http://raw.github.com/alexandred/VoodooI2C-Patches/master"},
        
     ]}];
